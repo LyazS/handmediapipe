@@ -1,0 +1,2 @@
+# 说明
+爬了谷歌的mediapipe的handtrack来用
